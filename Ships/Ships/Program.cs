@@ -10,6 +10,7 @@ namespace Ships
     {
         static void Main(string[] args)
         {
+            Ahoj
         }
     }
 }
